@@ -11,8 +11,4 @@ experimento 2
 
 master 1 
 
-<<<<<<< HEAD
 master 2
-=======
-
->>>>>>> 9e13c0f (experimiento1)
